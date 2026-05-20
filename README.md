@@ -1,1 +1,6 @@
-mac: `brew install k6`
+prereq: `npm i -g autocannon`
+
+build/run: `make run`
+
+stress test: `./stresstest.sh
+
