@@ -1,4 +1,4 @@
-URL=http://localhost:3000/hello
+URL=http://localhost:3001/hello
 CONNECTIONS=100
 DURATION=30
 PIPELINES=10
